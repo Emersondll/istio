@@ -1,7 +1,8 @@
-{
+{ "keys":[{
    "e":"RS512",
    "kty":"RSA",
    "kid":"sig",
    "n":"MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsl3eMU9CZ4m4ezpHS3EHVdU4TawAxO0o8rCeE3YZoF9qsXJQuzdZvlxXOv225/YdGVgmu4OjjjgIaXpPn/nEB5OLtsGWylLvNbeWewjIcGbnCQzOK9OiSQ3ugx3Y9dCNjeDhmPlzQ8TXprBkWLcSa/tP2sbgMyvn1bZH8XBqWleTJhugQEOF1Ei+e+Nu20VPKKLDvq0/bfCP1ZblIdoZH3hwhqGE6ASl35bdxL3A5Z8+P5Tdrxe6rWxZgFNLwtYBW1HW7FHrPMKSFNvYDv0snCWzLtC8VlgZYMeCMEarwfz7+biOFJp5Pi4aAoQwWme8srFNVIBKYqmEW2fmbVrvrQIDAQAB"
+}]
 }
 
